@@ -1,0 +1,10 @@
+Java is a programming language.
+It is used for backend development.
+Files are used to store data.
+File handling is important.
+BufferedReader reads data line by line.
+FileReader reads character by character.
+Learning Java is useful.
+Practice makes coding better.
+Internship helps gain experience.
+Consistency is the key.
